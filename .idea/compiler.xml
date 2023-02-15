@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="grpc-demo.grpc-protobuf.src.main.untitled.main" target="1.8" />
+      <module name="grpc-demo.grpc-protobuf.src.main.untitled.test" target="1.8" />
+      <module name="grpc-server" target="17" />
+      <module name="grpc-server.main" target="17" />
+      <module name="grpc-server.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
